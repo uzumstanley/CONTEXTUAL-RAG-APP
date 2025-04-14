@@ -151,13 +151,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
-## Contact
-
-For questions or feedback, feel free to reach out:
-
-- **GitHub**: [YourUsername](https://github.com/your-username)
-- **Email**: your-email@example.com
-
----
-
 Let me know if you'd like to personalize this further!
